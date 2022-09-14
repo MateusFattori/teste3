@@ -2,8 +2,8 @@
 # Título
 Descrição
 ## Autores
-- ` Aluno 1 `
-- Aluno 2
+- ` Aluno 1 (GAME) `
+- Aluno 2 (INW)
 - Aluno 3
 - Aluno 4
 - Aluno 5
