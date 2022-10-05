@@ -3,43 +3,45 @@
 * @author - Professor José de Assis
 */
 
-/** Smartphone Portrait **/
+/**
+/** Smartphone Portrait **
 body {
     background-color: #0ff;
 }
 
-/** Smartphone Landscape **/
+/** Smartphone Landscape **
 @media(min-width: 576px) {
     body{
     background-color: #ff000f;
     }
 }
 
-/** Tablet Portrait **/
+/** Tablet Portrait **
 @media(min-width: 768px) {
     body{
     background-color: #ff0;
     }
 }
 
-/** Tablet Landscape **/
+/** Tablet Landscape **
 @media(min-width: 768px) {
     body{
     background-color: #000ff0;
     }
 }
 
-/** PCs /Note / **/
+/** PCs /Note / **
 @media(min-width: 992px) {
     body{
     background-color: #0f0;
     }
 }
 
-/** PCs /Note / **/
+/** PCs /Note / **
 @media(min-width: 1200px) {
     body{
     background-color: #d1d  ;
     }
 }
 
+**/
